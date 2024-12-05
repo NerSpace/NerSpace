@@ -1,6 +1,6 @@
 ## Hi there, it's @NerSpace 👋
 - Aerospace engineer specializing in GNSS.
-- I’m an adaptable Aerospace Engineer passionate about solving problems, with a focus on GNSS systems, programming, and data processing. Skilled in Python, MATLAB, and C++.
+- I’m an adaptable Aerospace Engineer passionate about solving problems, with a focus on GNSS systems, algorithm development, and data processing.
 - How to reach me: nesangon98@gmail.com
 ---
 ## Technologies I Use 🛠️  
