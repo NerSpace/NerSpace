@@ -19,7 +19,6 @@
 
 ## Find Me Online 🌐  
 - [LinkedIn](www.linkedin.com/in/nesangon98)  
-- [Portfolio Website](https://github.com/NerSpace)
 
 ---
 
